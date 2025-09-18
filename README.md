@@ -1,5 +1,5 @@
 # Ecommerce-application
-Overview
+
 This project is a Microservices-based E-Commerce Platform that provides the core functionalities of a modern e-commerce application.
 It is designed with scalability, performance, and reliability in mind, using Spring Boot, Spring Cloud, and event-driven architecture.
 
